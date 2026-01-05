@@ -3,7 +3,7 @@
 Short-Games is a collection of interactive web games, including **Simon Game**, **Drum Game**, and **Dice Game**. 
 Designed for both solo and competitive play, this project offers a fun and challenging gaming experience through engaging visuals and responsive gameplay.
 
-**Live** : (https://keroles-naeem.github.io/Short-Games/)
+**Live** : (https://Kirolos-Naeim.github.io/Short-Games/)
 
 ---
 
@@ -95,6 +95,6 @@ We welcome contributions to improve Short-Games! If you’d like to add features
 
 ## Contact
 
-- **Keroles Naeem**: (Kerols_naeem@live.com)  
-- **GitHub**: (https://github.com/keroles-naeem)
-- **Live** : (https://keroles-naeem.github.io/Short-Games/)
+- **Kirolos Naeem**: (Kirolos_Naeim@live.com)  
+- **GitHub**: (https://github.com/Kirolos-Naeim)
+- **Live** : (https://Kirolos-Naeim.github.io/Short-Games/)
